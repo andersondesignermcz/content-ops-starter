@@ -4,14 +4,12 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Transformando Ideias Em Projetos Inesqueciveis
+      text: 'Olá, sejam todos bem vindos'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: Meu nome é Anderson Amorim
+    text: |
+      Neste espaço compartilho um pouco do que faço, meu portifólio.
     actions:
       - label: Get started
         altText: ''
@@ -37,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ....
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,8 +51,8 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
-      color: text-dark
+      text: Algumas das ferramentas que utilizo diariamente.
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -62,12 +60,12 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Adobe Photoshop
+        subtitle: ___
+        text: >
+          Uma das ferramentas mais usadas no mundo, um mundo de possibilidades.
+          Essencial para quase todo tipo de trabalho, em minha opinião
+          indispensável para qualquer um neste meio.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,18 +84,18 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/screenshot-2023-02-04-at-13.07.18.jpg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Adobe Premiere Pro
+        subtitle: ___
+        text: >
+          Confesso que evitava esta ferramenta, por ter tantas outras no mercado
+          e que são no minimo 10x mais fácil de usar. O diferencial aqui é que
+          uma vez que se aprender nunca mais quer mudar de editor.
         image:
-          url: /images/icon2.svg
+          url: /images/premiere.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -115,14 +113,15 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Media Enconder
+        subtitle: ___
+        text: >
+          Quem nunca precisou exportar múltiplos videos não sebe a dor de cabeça
+          que é, imagina exportar 100 videos um a um, com este carinha aqui,
+          isso se torna real, para agilizar uma alta demanda de videos o media
+          enconder é o melhor.
         image:
-          url: /images/icon3.svg
+          url: /images/Adobe_Media_Encoder_Icon.svg.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
