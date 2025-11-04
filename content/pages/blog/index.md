@@ -8,7 +8,7 @@ topSections:
       text: 'Olá, meu nome é Anderson Amorim'
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 'Aqui, compartilho um pouco do que faço. Sejam bem-vindos.'
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
