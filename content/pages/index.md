@@ -11,7 +11,7 @@ sections:
     text: |
       Neste espaço compartilho um pouco do que faço, meu portifólio.
     actions:
-      - label: Get started
+      - label: Fale Comigo
         altText: ''
         url: /
         showIcon: false
