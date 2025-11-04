@@ -285,10 +285,11 @@ sections:
       - type: FeaturedItem
         title: Tráfego pago
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Uma das áreas que mais gosto e tenho afinidade, seja Meta Ads, Google
+          Ads ou outras fontes de tráfego, eu estou por dentro. Fazer ótimos
+          criativos, boas copys, para atrair, engajar e converter. Este é o
+          objetivo, maximizar o orçamento e trazer resultados.
         image:
           type: ImageBlock
           url: /images/trafegopago.png
