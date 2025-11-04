@@ -38,17 +38,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "Link",
-            "label": "Motion",
-            "altText": "",
-            "url": "/",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
