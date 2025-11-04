@@ -257,10 +257,10 @@ sections:
       - type: FeaturedItem
         title: Adobe Illustrator
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Assim como o After Effects esta é outra ferramenta que sei que é muito
+          importante e se complementa com as demais. Ao qual ainda estou
+          desenvolvendo minhas habilidades.
         image:
           type: ImageBlock
           url: /images/illustrator.png
