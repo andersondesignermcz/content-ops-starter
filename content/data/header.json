@@ -29,15 +29,6 @@
             "style": "secondary",
             "type": "Link",
             "elementId": "Ferramentas"
-        },
-        {
-            "label": "Design Gráfico",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],
