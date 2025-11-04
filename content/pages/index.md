@@ -866,6 +866,16 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
 seo:
   metaTitle: Anderson Amorim
   metaDescription: Publicitário
