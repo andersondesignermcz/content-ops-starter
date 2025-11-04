@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Transformando Ideias Em Projetos Inesqueciveis
+      text: 'Olá, sejam todos bem vindos'
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
