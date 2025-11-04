@@ -23,7 +23,7 @@
         {
             "label": "Ferramentas",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "#tools",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
