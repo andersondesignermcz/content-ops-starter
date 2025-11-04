@@ -10,17 +10,7 @@ sections:
     subtitle: Meu nome é Anderson Amorim
     text: |
       Neste espaço compartilho um pouco do que faço, meu portifólio.
-    actions:
-      - label: Fale Comigo
-        altText: ''
-        url: >-
-          https://wa.me/5582996808247?text=Eu%20vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio.
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
@@ -303,17 +293,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    actions:
-      - label: Fale Comigo
-        altText: ''
-        url: >-
-          https://wa.me/5582996808247?text=Eu%20vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio.
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: This is a badge
       color: text-primary
