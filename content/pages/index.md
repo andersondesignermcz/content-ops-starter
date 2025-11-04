@@ -116,10 +116,10 @@ sections:
       - title: Media Enconder
         subtitle: ___
         text: >
-          Quem nunca precisou exportar múltiplos videos nao seja a dor de cabeça
+          Quem nunca precisou exportar múltiplos videos não sebe a dor de cabeça
           que é, imagina exportar 100 videos um a um, com este carinha aqui,
-          isso se torna real, para agilizar uma alta demanda o media enconder é
-          o melhor.
+          isso se torna real, para agilizar uma alta demanda de videos o media
+          enconder é o melhor.
         image:
           url: /images/Adobe_Media_Encoder_Icon.svg.png
           altText: Featured icon three
