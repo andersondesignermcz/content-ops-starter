@@ -67,7 +67,7 @@ sections:
           Essencial para quase todo tipo de trabalho, em minha opinião
           indispensável para qualquer um neste meio.
         actions: []
-        elementId: null
+        elementId: Ferramentas
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
