@@ -263,7 +263,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/illustrator.png
           altText: Placeholder text
           elementId: ''
           styles:
