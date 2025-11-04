@@ -19,16 +19,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Ferramentas",
-            "altText": "Blog",
-            "url": "#tools",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "elementId": "Ferramentas"
         }
     ],
     "secondaryLinks": [],
