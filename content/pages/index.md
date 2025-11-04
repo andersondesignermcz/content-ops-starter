@@ -256,7 +256,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Adobe Illustrator
-        subtitle: Numbers Done
+        subtitle: ___
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
