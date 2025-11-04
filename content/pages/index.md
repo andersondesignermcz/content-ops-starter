@@ -146,7 +146,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/wordpress.png
           altText: Placeholder text
           elementId: ''
           styles:
