@@ -200,10 +200,11 @@ sections:
       - type: FeaturedItem
         title: After Effects
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Confesso, que ainda estou desenvolvendo minhas habilidades aqui, e
+          entrando no mundo dos motions e efeitos que só o After Effects tem,
+          criar composições e trabalhos mais únicos. Uma ferramenta sem dúvidas
+          que tem muito a agregar a mim como profissional. 
         image:
           type: ImageBlock
           url: /images/after.png
