@@ -235,7 +235,7 @@ sections:
           criei e sei que são boas como: Nubemshop, Loja Integrada e Wix.
         image:
           type: ImageBlock
-          url: /images/shopify.png
+          url: /images/nuvemshop.png
           altText: Placeholder text
           elementId: ''
           styles:
