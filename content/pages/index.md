@@ -229,10 +229,10 @@ sections:
       - type: FeaturedItem
         title: Shopify
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Uma ótima ferramenta de ecommerce, não tão popular no Brasil, porém
+          muito utilizada globalmente, assim como outras ótimas opções que já
+          criei e sei que são boas como: Nubemshop, Loja Integrada e Wix.
         image:
           type: ImageBlock
           url: /images/shopify.png
