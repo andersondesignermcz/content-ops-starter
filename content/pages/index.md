@@ -140,10 +140,11 @@ sections:
       - type: FeaturedItem
         title: Wordpress
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Um dos mais antigos e reconhecidos CMS no mundo, criar sites com
+          Wordpress é como esquecer de fazer códigos na mão, uma ótima
+          ferramenta. Para se ter uma ideia mais de +40% de todos os sites na
+          internet são contruidos por ele.
         image:
           type: ImageBlock
           url: /images/wordpress.png
