@@ -35,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ....
+      label: ___
       color: text-primary
       type: Badge
     elementId: ''
@@ -67,7 +67,7 @@ sections:
           Essencial para quase todo tipo de trabalho, em minha opinião
           indispensável para qualquer um neste meio.
         actions: []
-        elementId: null
+        elementId: Ferramentas
         colors: bg-neutralAlt-fg-dark
         styles:
           self:
@@ -137,6 +137,180 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+      - type: FeaturedItem
+        title: Wordpress
+        subtitle: ___
+        text: >
+          Um dos mais antigos e reconhecidos CMS no mundo, criar sites com
+          Wordpress é como esquecer de fazer códigos na mão, uma ótima
+          ferramenta. Para se ter uma ideia mais de +40% de todos os sites na
+          internet são contruidos por ele.
+        image:
+          type: ImageBlock
+          url: /images/wordpress.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Cupcut
+        subtitle: ___
+        text: >
+          Um dos mais populares editores de video na atualidade, diferente do
+          premiere onde temos uma solução mais robusta em termos de
+          funcionalidades, o cupcut faz com que adicionar efeitos incríveis,
+          transições, legendas seja muito mais fácil do que outros editores. Uma
+          solução com menor barreira de aprendizado, e muito versátil. Para
+          trabalhos rápidos.
+        image:
+          type: ImageBlock
+          url: /images/cupcut.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: After Effects
+        subtitle: ___
+        text: >
+          Confesso, que ainda estou desenvolvendo minhas habilidades aqui, e
+          entrando no mundo dos motions e efeitos que só o After Effects tem,
+          criar composições e trabalhos mais únicos. Uma ferramenta sem dúvidas
+          que tem muito a agregar a mim como profissional. 
+        image:
+          type: ImageBlock
+          url: /images/after.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Nuvemshop
+        subtitle: ___
+        text: >
+          Uma ótima ferramenta de ecommerce, lider de mercado na america latina.
+          Não posso deixar de citar outros bons construtores de ecommerces que
+          já utilizei como, Loja Integrada e Wix, e Shopify.
+        image:
+          type: ImageBlock
+          url: /images/nuvemshop.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Adobe Illustrator
+        subtitle: ___
+        text: >
+          Assim como o After Effects esta é outra ferramenta que sei que é muito
+          importante e se complementa com as demais. Ao qual ainda estou
+          desenvolvendo minhas habilidades.
+        image:
+          type: ImageBlock
+          url: /images/illustrator.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: Tráfego pago
+        subtitle: Numbers Done
+        text: >
+          Uma das áreas que mais gosto e tenho afinidade, seja Meta Ads, Google
+          Ads ou outras fontes de tráfego, eu estou por dentro. Fazer ótimos
+          criativos, boas copys, para atrair, engajar e converter. Este é o
+          objetivo, maximizar o orçamento e trazer resultados.
+        image:
+          type: ImageBlock
+          url: /images/trafegopago.png
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
     actions:
       - label: Get started
         altText: ''
