@@ -227,7 +227,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Shopify
+        title: Nuvemshop
         subtitle: ___
         text: >
           Uma ótima ferramenta de ecommerce, não tão popular no Brasil, porém
