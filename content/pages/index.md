@@ -51,7 +51,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Algumas das ferramentas que utilizo diariamente.
       color: text-light
       styles:
         self:
