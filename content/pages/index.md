@@ -918,7 +918,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Anderson Amorim
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Publicitário
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
