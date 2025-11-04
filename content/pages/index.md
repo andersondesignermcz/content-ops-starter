@@ -321,7 +321,7 @@ sections:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: tools
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
