@@ -169,10 +169,12 @@ sections:
       - type: FeaturedItem
         title: Cupcut
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Um dos mais populares editores de video na atualidade, diferente do
+          premiere onde temos uma solução mais robusta em termos de
+          funcionalidades, o cupcut faz com que adicionar efeitos incríveis,
+          transições, legendas seja muito mais fácil do que outros editores. Uma
+          solução com menor barreira de aprendizado, e muito versátil.
         image:
           type: ImageBlock
           url: /images/cupcut.png
