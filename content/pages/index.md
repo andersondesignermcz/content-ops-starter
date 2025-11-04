@@ -115,10 +115,11 @@ sections:
         type: FeaturedItem
       - title: Media Enconder
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Quem nunca precisou exportar múltiplos videos nao seja a dor de cabeça
+          que é, imagina exportar 100 videos um a um, com este carinha aqui,
+          isso se torna real, para agilizar uma alta demanda o media enconder é
+          o melhor.
         image:
           url: /images/Adobe_Media_Encoder_Icon.svg.png
           altText: Featured icon three
