@@ -230,9 +230,9 @@ sections:
         title: Nuvemshop
         subtitle: ___
         text: >
-          Uma ótima ferramenta de ecommerce, não tão popular no Brasil, porém
-          muito utilizada globalmente, assim como outras ótimas opções que já
-          criei e sei que são boas como: Nubemshop, Loja Integrada e Wix.
+          Uma ótima ferramenta de ecommerce, lider de mercado na america latina.
+          Não posso deixar de citar outros bons construtores de ecommerces que
+          já utilizei como, Loja Integrada e Wix, e Shopify.
         image:
           type: ImageBlock
           url: /images/nuvemshop.png
