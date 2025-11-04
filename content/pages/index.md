@@ -90,10 +90,10 @@ sections:
               borderRadius: x-large
       - title: Adobe Premiere Pro
         subtitle: ___
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Confesso que evita esta ferramenta, por ter tantas outras no mercado e
+          que são no minimo 10x mais fácil de usar. O diferencial aqui é que uma
+          vez que se aprender nunca mais quer mudar de editor.
         image:
           url: /images/premiere.png
           altText: Featured icon two
