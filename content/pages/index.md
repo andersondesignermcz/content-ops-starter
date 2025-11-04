@@ -306,7 +306,8 @@ sections:
     actions:
       - label: Fale Comigo
         altText: ''
-        url: /
+        url: >-
+          https://wa.me/5582996808247?text=Eu%20vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio.
         showIcon: false
         icon: arrowRight
         iconPosition: right
