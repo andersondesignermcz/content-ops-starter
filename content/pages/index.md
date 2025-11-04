@@ -304,7 +304,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: Fale Comigo
         altText: ''
         url: /
         showIcon: false
