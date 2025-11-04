@@ -120,7 +120,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/Adobe_Media_Encoder_Icon.svg.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
