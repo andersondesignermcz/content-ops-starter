@@ -174,7 +174,8 @@ sections:
           premiere onde temos uma solução mais robusta em termos de
           funcionalidades, o cupcut faz com que adicionar efeitos incríveis,
           transições, legendas seja muito mais fácil do que outros editores. Uma
-          solução com menor barreira de aprendizado, e muito versátil.
+          solução com menor barreira de aprendizado, e muito versátil. Para
+          trabalhos rápidos.
         image:
           type: ImageBlock
           url: /images/cupcut.png
