@@ -366,17 +366,7 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-    actions:
-      - type: Button
-        label: Fale Comigo
-        altText: ''
-        url: >-
-          https://wa.me/5582996808247?text=Eu%20vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio.
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
 seo:
   metaTitle: Anderson Amorim
   metaDescription: Publicitário
