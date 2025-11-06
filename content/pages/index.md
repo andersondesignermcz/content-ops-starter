@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Olá, sejam todos bem vindos'
+      text: 'Olá, sejam todos bem-vindos'
       color: text-dark
       type: TitleBlock
     subtitle: Meu nome é José Anderson
