@@ -7,7 +7,9 @@ sections:
       text: 'Olá, sejam todos bem-vindos!'
       color: text-dark
       type: TitleBlock
-    subtitle: Meu nome é José Anderson
+    subtitle: >-
+      Meu nome é José Anderson sou Publicitário pela FACIMA, e atualmente
+      fazendo pós graduação em Design Gráfico pela LIBANO.
     text: |
       Neste espaço, compartilho um pouco do que faço e utilizo diariamente.
     actions: []
