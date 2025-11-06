@@ -333,7 +333,6 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/hero2.svg
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-light-fg-dark
