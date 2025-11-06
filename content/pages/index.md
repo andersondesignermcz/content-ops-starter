@@ -101,7 +101,8 @@ sections:
           Quem nunca precisou exportar múltiplos videos não sebe a dor de cabeça
           que é, imagina exportar 100 videos um a um, com este carinha aqui,
           isso se torna real, para agilizar uma alta demanda de videos o media
-          enconder é o melhor.
+          enconder é o melhor. É a combinação perfeita entre (PREMIERE PRO e
+          MEDIA ENCONDER)
         image:
           url: /images/Adobe_Media_Encoder_Icon.svg.png
           altText: Featured icon three
