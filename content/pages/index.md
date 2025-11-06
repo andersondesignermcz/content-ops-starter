@@ -324,7 +324,7 @@ sections:
       Clique no botão abaixo.
     actions:
       - type: Button
-        label: Get started
+        label: Ver No Behance
         altText: ''
         url: 'https://www.behance.net/gallery/159388731/Jobs'
         showIcon: false
