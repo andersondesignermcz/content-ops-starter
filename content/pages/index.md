@@ -272,7 +272,8 @@ sections:
           Uma das áreas que mais gosto e tenho afinidade, seja Meta Ads, Google
           Ads ou outras fontes de tráfego, eu estou por dentro. Fazer ótimos
           criativos, boas copys, para atrair, engajar e converter. Este é o
-          objetivo, maximizar o orçamento e trazer resultados.
+          objetivo, maximizar o orçamento e trazer resultados com o melhor ROI
+          possivel.
         image:
           type: ImageBlock
           url: /images/trafegopago.png
