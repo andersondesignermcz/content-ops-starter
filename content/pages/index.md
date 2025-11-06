@@ -7,7 +7,7 @@ sections:
       text: 'Olá, sejam todos bem vindos'
       color: text-dark
       type: TitleBlock
-    subtitle: Meu nome é Anderson Amorim
+    subtitle: Meu nome é José Anderson
     text: |
       Neste espaço, compartilho um pouco do que faço e utilizo diariamente.
     actions: []
