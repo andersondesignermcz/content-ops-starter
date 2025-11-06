@@ -126,8 +126,8 @@ sections:
         text: >
           Um dos mais antigos e reconhecidos CMS no mundo, criar sites com
           Wordpress é como esquecer de fazer códigos na mão, uma ótima
-          ferramenta. Para se ter uma ideia mais de +40% de todos os sites na
-          internet são contruidos por ele.
+          ferramenta. Para se ter uma ideia +40% de todos os sites na internet
+          são contruidos por ele.
         image:
           type: ImageBlock
           url: /images/wordpress.png
