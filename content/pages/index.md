@@ -316,7 +316,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Confira alguns trabalhos feitos no Behance
+      text: Confira alguns trabalhos feitos diretamente no Behance
       color: text-dark
       type: TitleBlock
     subtitle: _____
