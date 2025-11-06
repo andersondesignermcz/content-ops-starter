@@ -323,7 +323,16 @@ sections:
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.behance.net/gallery/159388731/Jobs'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
