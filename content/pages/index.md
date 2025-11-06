@@ -12,7 +12,7 @@ sections:
       Neste espaço, compartilho um pouco do que faço e utilizo diariamente.
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/euu.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
