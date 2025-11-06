@@ -361,7 +361,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     badge:
-      label: Contact Us
+      label: ___
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
