@@ -319,7 +319,7 @@ sections:
       text: Confira alguns trabalhos feitos no Behance
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: _____
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
