@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Meu nome é Anderson Amorim
     text: |
-      Neste espaço compartilho um pouco do que faço, meu portifólio.
+      Neste espaço, compartilho um pouco do que faço e utilizo diariamente.
     actions: []
     media:
       url: /images/main-hero.svg
