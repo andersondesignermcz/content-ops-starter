@@ -320,9 +320,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: _____
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Clique no botão abaixo.
     actions:
       - type: Button
         label: Get started
