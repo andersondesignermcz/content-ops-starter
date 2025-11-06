@@ -213,9 +213,9 @@ sections:
         title: Nuvemshop
         subtitle: ___
         text: >
-          Uma ótima ferramenta de ecommerce, lider de mercado na america latina.
-          Não posso deixar de citar outros bons construtores de ecommerces que
-          já utilizei como, Loja Integrada e Wix, e Shopify.
+          Uma ótima ferramenta de ecommerce. Não posso deixar de citar outros
+          bons construtores de ecommerces que já utilizei como, Loja Integrada e
+          Wix, e Shopify.
         image:
           type: ImageBlock
           url: /images/nuvemshop.png
