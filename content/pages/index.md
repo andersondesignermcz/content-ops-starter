@@ -267,7 +267,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Tráfego pago
-        subtitle: Numbers Done
+        subtitle: ___
         text: >
           Uma das áreas que mais gosto e tenho afinidade, seja Meta Ads, Google
           Ads ou outras fontes de tráfego, eu estou por dentro. Fazer ótimos
