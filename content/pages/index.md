@@ -4,15 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Olá, sejam todos bem vindos'
+      text: 'Olá, sejam todos bem-vindos!'
       color: text-dark
       type: TitleBlock
-    subtitle: Meu nome é Anderson Amorim
+    subtitle: Meu nome é José Anderson
     text: |
-      Neste espaço compartilho um pouco do que faço, meu portifólio.
+      Neste espaço, compartilho um pouco do que faço e utilizo diariamente.
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/euu.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -75,7 +75,7 @@ sections:
         text: >
           Confesso que evitava esta ferramenta, por ter tantas outras no mercado
           e que são no minimo 10x mais fácil de usar. O diferencial aqui é que
-          uma vez que se aprender nunca mais quer mudar de editor.
+          uma vez que se aprende a usar nunca mais se quer mudar de editor.
         image:
           url: /images/premiere.png
           altText: Featured icon two
@@ -101,7 +101,8 @@ sections:
           Quem nunca precisou exportar múltiplos videos não sebe a dor de cabeça
           que é, imagina exportar 100 videos um a um, com este carinha aqui,
           isso se torna real, para agilizar uma alta demanda de videos o media
-          enconder é o melhor.
+          enconder é o melhor. É a combinação perfeita entre (PREMIERE PRO e
+          MEDIA ENCONDER)
         image:
           url: /images/Adobe_Media_Encoder_Icon.svg.png
           altText: Featured icon three
@@ -125,8 +126,8 @@ sections:
         text: >
           Um dos mais antigos e reconhecidos CMS no mundo, criar sites com
           Wordpress é como esquecer de fazer códigos na mão, uma ótima
-          ferramenta. Para se ter uma ideia mais de +40% de todos os sites na
-          internet são contruidos por ele.
+          ferramenta. Para se ter uma ideia +40% de todos os sites na internet
+          são contruidos por ele.
         image:
           type: ImageBlock
           url: /images/wordpress.png
@@ -212,9 +213,9 @@ sections:
         title: Nuvemshop
         subtitle: ___
         text: >
-          Uma ótima ferramenta de ecommerce, lider de mercado na america latina.
-          Não posso deixar de citar outros bons construtores de ecommerces que
-          já utilizei como, Loja Integrada e Wix, e Shopify.
+          Uma ótima ferramenta de ecommerce. Não posso deixar de citar outros
+          bons construtores de ecommerces que já utilizei como, Loja Integrada e
+          Wix, e Shopify.
         image:
           type: ImageBlock
           url: /images/nuvemshop.png
@@ -241,8 +242,8 @@ sections:
         subtitle: ___
         text: >
           Assim como o After Effects esta é outra ferramenta que sei que é muito
-          importante e se complementa com as demais. Ao qual ainda estou
-          desenvolvendo minhas habilidades.
+          importante e se complementa com as demais ferramentas do pacote ADOBE.
+          Ao qual ainda estou desenvolvendo minhas habilidades.
         image:
           type: ImageBlock
           url: /images/illustrator.png
@@ -266,12 +267,13 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Tráfego pago
-        subtitle: Numbers Done
+        subtitle: ___
         text: >
           Uma das áreas que mais gosto e tenho afinidade, seja Meta Ads, Google
           Ads ou outras fontes de tráfego, eu estou por dentro. Fazer ótimos
           criativos, boas copys, para atrair, engajar e converter. Este é o
-          objetivo, maximizar o orçamento e trazer resultados.
+          objetivo, maximizar o orçamento e trazer resultados com o melhor ROI
+          possivel.
         image:
           type: ImageBlock
           url: /images/trafegopago.png
@@ -315,158 +317,30 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
+      text: 'Portifólio: Confira no Behance'
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
+    subtitle: _____
+    text: |
+      Clique no botão abaixo.
     actions:
       - type: Button
-        label: Fale Comigo
+        label: Ver No Behance
         altText: ''
-        url: >-
-          https://wa.me/5582996808247?text=Eu%20vim%20atrav%C3%A9s%20do%20seu%20portf%C3%B3lio.
+        url: 'https://www.behance.net/gallery/159388731/Jobs'
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
+    media:
+      altText: Fun feature preview
+      type: ImageBlock
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
 seo:
   metaTitle: Anderson Amorim
   metaDescription: Publicitário
